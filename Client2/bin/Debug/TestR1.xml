@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPackageElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PackageElement>
+    <PackageID>No</PackageID>
+    <Category>str</Category>
+    <Description>Project 2 for SMA</Description>
+    <Query>Persist</Query>
+    <Name>PackageList_modified</Name>
+	<count>1</count>
+	<searchMeta></searchMeta>
+	<searchTime></searchTime>
+    <Author>Ravi</Author>
+    <Country>NewYork</Country>
+    <Time>2015-10-07T21:41:41.4911909-04:00</Time>
+    <Time2>1997-10-03T00:00:00</Time2>
+    <Payload>This package contains the following interfaces, private void Test_R1()</Payload>
+    <children>
+      <Child>
+        <ChildID>Project1</ChildID>
+        <ChildDate>1997-08-25T00:00:00</ChildDate>
+      </Child>
+      <Child>
+        <ChildID>Project2</ChildID>
+        <ChildDate>1997-10-03T00:00:00</ChildDate>
+      </Child>
+    </children>
+  </PackageElement>
+   <PackageElement>
+    <PackageID>No</PackageID>
+    <Category>str</Category>
+    <Description>Project 2 for SMA</Description>
+    <Query>Restore</Query>
+    <Name></Name>
+	<count>1</count>
+	<searchMeta></searchMeta>
+	<searchTime></searchTime>
+    <Author>Ravi</Author>
+    <Country>NewYork</Country>
+    <Time>2015-10-07T21:41:41.4911909-04:00</Time>
+    <Time2>1997-10-03T00:00:00</Time2>
+    <Payload></Payload>
+    <children>
+      <Child>
+        <ChildID>Project1</ChildID>
+        <ChildDate>1997-08-25T00:00:00</ChildDate>
+      </Child>
+      <Child>
+        <ChildID>Project2</ChildID>
+        <ChildDate>1997-10-03T00:00:00</ChildDate>
+      </Child>
+    </children>
+  </PackageElement>
+</ArrayOfPackageElement>

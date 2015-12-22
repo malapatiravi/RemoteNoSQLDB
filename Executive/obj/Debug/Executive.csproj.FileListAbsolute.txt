@@ -1,0 +1,6 @@
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\Executive\bin\Debug\Executive.exe.config
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\Executive\bin\Debug\Executive.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\Executive\bin\Debug\Executive.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\Executive\obj\Debug\Executive.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\Executive\obj\Debug\Executive.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\Executive\obj\Debug\Executive.csprojResolveAssemblyReference.cache

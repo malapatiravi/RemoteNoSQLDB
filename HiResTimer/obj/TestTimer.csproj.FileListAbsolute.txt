@@ -1,0 +1,2 @@
+C:\SU\CSE681\code\HiResTimerInterop\obj\Debug\TestTimer.exe
+C:\SU\CSE681\code\HiResTimerInterop\obj\Debug\TestTimer.pdb

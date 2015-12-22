@@ -1,0 +1,8 @@
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBEngine\obj\Debug\DBEngine.csprojResolveAssemblyReference.cache
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBEngine\bin\Debug\DBEngine.exe.config
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBEngine\bin\Debug\DBEngine.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBEngine\bin\Debug\DBEngine.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBEngine\bin\Debug\DBElement.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBEngine\bin\Debug\DBElement.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBEngine\obj\Debug\DBEngine.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBEngine\obj\Debug\DBEngine.pdb

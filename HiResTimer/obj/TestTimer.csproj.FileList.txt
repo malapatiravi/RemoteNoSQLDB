@@ -1,0 +1,5 @@
+obj\Debug\TestTimer.exe
+obj\Debug\TestTimer.pdb
+bin\Debug\TestTimer.exe
+bin\Debug\TestTimer.pdb
+obj\Debug\ResolveAssemblyReference.cache

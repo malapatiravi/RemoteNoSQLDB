@@ -1,0 +1,5 @@
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBElement\bin\Debug\DBElement.exe.config
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBElement\bin\Debug\DBElement.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBElement\bin\Debug\DBElement.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBElement\obj\Debug\DBElement.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\DBElement\obj\Debug\DBElement.pdb

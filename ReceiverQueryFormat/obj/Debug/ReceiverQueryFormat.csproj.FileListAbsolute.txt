@@ -1,0 +1,5 @@
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\ReceiverQueryFormat\bin\Debug\ReceiverQueryFormat.exe.config
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\ReceiverQueryFormat\bin\Debug\ReceiverQueryFormat.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\ReceiverQueryFormat\bin\Debug\ReceiverQueryFormat.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\ReceiverQueryFormat\obj\Debug\ReceiverQueryFormat.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\ReceiverQueryFormat\obj\Debug\ReceiverQueryFormat.pdb

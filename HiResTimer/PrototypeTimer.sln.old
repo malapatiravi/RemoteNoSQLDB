@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTimer", "TestTimer.csproj", "{0B20335D-D367-437F-9F49-5AD477D0EF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTest", "..\TimerTest\TimerTest.csproj", "{56A3C504-5B49-46E5-850C-3D76E7726C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0B20335D-D367-437F-9F49-5AD477D0EF57}.Debug.ActiveCfg = Debug|.NET
+		{0B20335D-D367-437F-9F49-5AD477D0EF57}.Debug.Build.0 = Debug|.NET
+		{0B20335D-D367-437F-9F49-5AD477D0EF57}.Release.ActiveCfg = Release|.NET
+		{0B20335D-D367-437F-9F49-5AD477D0EF57}.Release.Build.0 = Release|.NET
+		{56A3C504-5B49-46E5-850C-3D76E7726C63}.Debug.ActiveCfg = Debug|.NET
+		{56A3C504-5B49-46E5-850C-3D76E7726C63}.Debug.Build.0 = Debug|.NET
+		{56A3C504-5B49-46E5-850C-3D76E7726C63}.Release.ActiveCfg = Release|.NET
+		{56A3C504-5B49-46E5-850C-3D76E7726C63}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\bin\Debug\LoadXMLDB.exe.config
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\bin\Debug\LoadXMLDB.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\bin\Debug\LoadXMLDB.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\bin\Debug\DBElement.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\bin\Debug\DBEngine.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\bin\Debug\DBElement.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\bin\Debug\DBEngine.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\obj\Debug\LoadXMLDB.csprojResolveAssemblyReference.cache
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\obj\Debug\LoadXMLDB.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\LoadXMLDB\obj\Debug\LoadXMLDB.pdb

@@ -1,0 +1,5 @@
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\MakeReply\bin\Debug\MakeReply.exe.config
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\MakeReply\bin\Debug\MakeReply.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\MakeReply\bin\Debug\MakeReply.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\MakeReply\obj\Debug\MakeReply.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\MakeReply\obj\Debug\MakeReply.pdb

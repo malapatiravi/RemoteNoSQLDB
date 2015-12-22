@@ -1,0 +1,16 @@
+F:\MyBooks_Materials\SMA\Project4_new\Client1\read_ip_client\bin\Debug\read_ip_client.exe.config
+F:\MyBooks_Materials\SMA\Project4_new\Client1\read_ip_client\bin\Debug\read_ip_client.exe
+F:\MyBooks_Materials\SMA\Project4_new\Client1\read_ip_client\bin\Debug\read_ip_client.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Client1\read_ip_client\bin\Debug\DBElement.exe
+F:\MyBooks_Materials\SMA\Project4_new\Client1\read_ip_client\bin\Debug\DBElement.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Client1\read_ip_client\obj\Debug\read_ip_client.csprojResolveAssemblyReference.cache
+F:\MyBooks_Materials\SMA\Project4_new\Client1\read_ip_client\obj\Debug\read_ip_client.exe
+F:\MyBooks_Materials\SMA\Project4_new\Client1\read_ip_client\obj\Debug\read_ip_client.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\read_ip_client\bin\Debug\read_ip_client.exe.config
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\read_ip_client\bin\Debug\read_ip_client.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\read_ip_client\bin\Debug\read_ip_client.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\read_ip_client\bin\Debug\DBElement.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\read_ip_client\bin\Debug\DBElement.pdb
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\read_ip_client\obj\Debug\read_ip_client.csprojResolveAssemblyReference.cache
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\read_ip_client\obj\Debug\read_ip_client.exe
+F:\MyBooks_Materials\SMA\Project4_new\Server_main\read_ip_client\obj\Debug\read_ip_client.pdb
